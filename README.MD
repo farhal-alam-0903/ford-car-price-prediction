@@ -1,6 +1,6 @@
 # 🚗 Ford Car Price Prediction
 
-A Machine Learning project that analyzes Ford car data and predicts car prices using **Linear Regression**.
+A Machine Learning project that analyzes Ford car data and predicts car prices using **Linear Regression**. 
 
 ## 📌 Overview
 
